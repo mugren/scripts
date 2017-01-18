@@ -3,7 +3,7 @@
 #
 # GNRP LICENSE: Script licensed by GOD
 #
-# @author: Igor Ivanovski <igor at genrepsoft.net>
+# @author: Igor Ivanovski <igor at genrepsoft.com>
 #
 # July, 2014
 #
